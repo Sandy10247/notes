@@ -1,0 +1,18 @@
+{
+  "name": "notes_app",
+  "version": "0.0.1",
+  "description": "A simple CRUP app with MERN stack.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "js",
+    "node",
+    "js"
+  ],
+  "author": "KSPK",
+  "license": "ISC"
+}
